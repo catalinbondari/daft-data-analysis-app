@@ -1,0 +1,141 @@
+,address,price,bed,bath,floorArea,propertyTape
+0,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+1,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+2,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+3,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+4,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+5,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+6,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+7,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+8,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+9,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+10,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+11,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+12,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+13,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+14,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+15,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+16,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+17,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+18,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+19,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+20,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+21,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+22,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+23,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+24,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+25,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+26,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+27,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+28,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+29,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+30,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+31,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+32,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+33,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+34,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+35,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+36,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+37,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+38,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+39,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+40,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+41,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+42,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+43,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+44,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+45,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+46,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+47,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+48,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+49,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+50,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+51,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+52,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+53,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+54,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+55,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+56,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+57,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+58,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+59,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+60,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+61,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+62,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+63,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+64,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+65,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+66,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+67,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+68,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+69,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+70,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+71,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+72,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+73,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+74,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+75,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+76,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+77,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+78,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+79,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+80,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+81,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+82,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+83,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+84,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+85,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+86,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+87,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+88,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+89,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+90,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+91,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+92,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+93,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+94,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+95,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+96,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+97,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+98,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+99,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+100,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+101,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+102,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+103,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+104,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+105,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+106,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+107,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+108,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+109,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+110,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+111,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+112,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+113,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+114,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+115,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+116,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+117,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+118,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+119,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
+120,"Apartment 112, The Matthew, The Strand, Limerick City, Co. Limerick",345000.0,2 Bed, 2 Bath, 72 m², Apartment
+121,"7 Heron Court, North Circular Road, North Circular Road, Co. Limerick",400000.0,4 Bed, 2 Bath, 124 m², Semi-D
+122,"16 Belfield Park, Ennis Road, Ennis Road, Co. Limerick",295000.0,3 Bed, 1 Bath, 84 m², Semi-D
+123,"Apartment 302, Castle Court Apartments, Limerick City, Co. Limerick",150000.0,3 Bed, 2 Bath, 72 m², Apartment
+124,"148 Dooradoyle Park, Dooradoyle, Dooradoyle, Co. Limerick",189000.0,2 Bed, 2 Bath, 75 m², Apartment
+125,"14 Monabraher Road, Ballynanty, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+126,"Apartment 402, Richmond Court, Mount Kenneth Place, Limerick City, Co. Limerick",140000.0,2 Bed, 2 Bath, 61 m², Apartment
+127,"Laurel Ville, Mill Road, Corbally, Co. Limerick",695000.0,6 Bed, 5 Bath, 348 m², Detached
+128,"Apartment 16, Richmond Court, Mount Kennett Place, Limerick City, Co. Limerick",125000.0,"(0,)","(0,)","(0,)","(0,)"
+129,"48 Kilteragh, Dooradoyle, Co. Limerick",299000.0,"(0,)","(0,)","(0,)","(0,)"
+130,"1A Violet Cottages, Cross Road, Thomondgate, Co. Limerick",175000.0,3 Bed, 2 Bath, 98 m², Terrace
+131,"31 The Park, Rosmor, Ballyneaty Road, Limerick City, Co. Limerick",270000.0,3 Bed, 3 Bath, 96 m², Semi-D
+132,"Apartment 102, Newtown House, Limerick City, Co. Limerick",175000.0,2 Bed, 2 Bath, 64 m², Apartment
+133,"28 Castle Court, Clancy, Strand, Co. Limerick",215000.0,2 Bed, 1 Bath, 64 m², Apartment
+134,"5 Island View Terrace, Limerick City, Co. Limerick",130000.0,2 Bed, 1 Bath, 60 m², Terrace
+135,"Apartment 35, Grove Island Student Village, Grove Island, Corbally, Co. Limerick",149000.0,4 Bed, 4 Bath, 91 m², Apartment
+136,"17 Pery Square, Limerick City, Co. Limerick",0.0,3 Bed, 1 Bath, 118 m², Semi-D
+137,"2 St. Augustine, Limerick City, Co. Limerick",199000.0,2 Bed, 2 Bath, 70 m², Terrace
+138,"46 Cúl Crannagh, Dooradoyle Road, Limerick City, Co. Limerick",340000.0,"(0,)","(0,)","(0,)","(0,)"
+139,"84 Cois Luachra, Dooradoyle, Co. Limerick",215000.0,4 Bed, 3 Bath, 105 m², Duplex
