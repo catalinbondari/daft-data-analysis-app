@@ -1,49 +1,32 @@
-# Daft Property Data Parsing and Analysis
-
-This repository contains a Python application designed to fetch and analyze property data from the Daft website, a popular Irish property listing site. The application uses web scraping techniques to extract property data, which is then stored in a SQLite database for further analysis.
+# Daft.ie Property Data Analysis App
+This project aims to scrape property listing data from the popular Irish property website Daft.ie, clean and store the data, and provide a user-friendly graphical interface for analyzing and visualizing the data.
 
 ## Features
+- Web scraping of property listings from Daft.ie using Python's BeautifulSoup and Requests libraries
+- Handling of broken links during scraping process with try-except blocks
+- Data cleaning and preprocessing
+- Saving scraped data to CSV files
+- User authentication system with login and registration functionality
+- Storing scraped data in a database
+- Graphical user interface (GUI) built with Tkinter for data visualization and analysis
+- Interactive dashboard for generating customizable charts and graphs based on location, price range, and other filters
+- Price range search functionality
+- Parsing button to parse data in real-time
+- CSV file cleaning functionality to remove zeros or other unwanted values
 
-- Fetch property data from the Daft website based on selected county.
-- Store fetched data in a SQLite database.
-- Analyze the fetched data.
-- Display the results in a user-friendly GUI.
+## Usage
+Upon launching the application, you will be prompted to log in or register a new account.
+After successful authentication, the main interface will be displayed.
+Use the menu buttons on the left to navigate through different functionalities, such as downloading CSV files, cleaning data, uploading data to the database, and accessing the dashboard.
+In the dashboard, select the desired location, y-axis, x-axis, and chart type, then click "Generate" to visualize the data.
+The "Search Price" section allows you to filter property listings by location and price range.
+Use the "Parsing" button to parse data in real-time from the Daft.ie website.
+The "Clean CSV File" button allows you to remove zeros or other unwanted values from the CSV file.
 
-## Technologies Used
+## License
 
-- Python
-- SQLite
-- Tkinter for GUI
-- BeautifulSoup for web scraping
-- Pandas for data manipulation
-- Requests for HTTP requests
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## How to Run
-
-1. Clone the repository.
-2. Install the required Python packages using pip:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the main Python script:
-    ```bash
-    python main.py
-    ```
-4. Select a county from the dropdown menu in the GUI.
-5. Click the "Fetch Data" button to start fetching data.
-6. Click the "Stop" button to stop fetching data.
-7. The results will be displayed in the text box in the GUI.
-
-## Note
-
-The fetching process may take a while depending on the number of pages to fetch. Please be patient and do not close the application while fetching is in progress.
-
-## Future Improvements
-
-- Add more analysis features.
-- Improve the GUI design.
-- Handle potential errors and exceptions more gracefully.
-
-## Disclaimer
-
-This project is for educational purposes only. Please respect the Daft website's terms of use and do not use this project to overload or disrupt their services.
+## Acknowledgments
+The Daft.ie website for providing property listing data.
+The Python community for the libraries and resources used in this project.
