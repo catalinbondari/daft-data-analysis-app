@@ -28,5 +28,5 @@ The "Clean CSV File" button allows you to remove zeros or other unwanted values 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-The Daft.ie website for providing property listing data.
-The Python community for the libraries and resources used in this project.
+- The Daft.ie website for providing property listing data.
+- The Python community for the libraries and resources used in this project.
