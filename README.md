@@ -30,3 +30,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - The Daft.ie website for providing property listing data.
 - The Python community for the libraries and resources used in this project.
+
+Author: Catalin Bondari
